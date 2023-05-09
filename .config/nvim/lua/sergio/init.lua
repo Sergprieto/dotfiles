@@ -1,0 +1,5 @@
+require("sergio.set")
+require("sergio.remap")
+require("sergio.catppuccin")
+require('nvim-surround').setup()
+require('colorizer').setup()
